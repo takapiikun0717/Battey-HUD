@@ -1,0 +1,7 @@
+{
+  "key.categories.batteryhud": "バッテリーHUD",
+  "key.batteryhud.toggle": "バッテリー表示 ON/OFF",
+  "batteryhud.charging": "充電中",
+  "batteryhud.plugged": "電源接続",
+  "batteryhud.no_battery": "バッテリーなし"
+}

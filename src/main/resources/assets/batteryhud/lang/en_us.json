@@ -1,0 +1,7 @@
+{
+  "key.categories.batteryhud": "Battery HUD",
+  "key.batteryhud.toggle": "Toggle Battery HUD",
+  "batteryhud.charging": "Charging",
+  "batteryhud.plugged": "Plugged in",
+  "batteryhud.no_battery": "No battery"
+}

@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="batteryhud"
+version="1.0.2"
+displayName="Battery HUD"
+displayTest="IGNORE_SERVER_VERSION"
+description='''
+Shows your PC's battery level on the game screen. Client-side only.
+PCのバッテリー残量をゲーム画面に表示します。クライアント専用。
+'''
+
+[[dependencies.batteryhud]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.batteryhud]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="CLIENT"
